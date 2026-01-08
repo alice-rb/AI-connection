@@ -16,7 +16,7 @@ This script handles the connection from Python to the LLM and links it to the se
 
 ---
 
-### 2️⃣ `ai_utilities.py`
+### 2️⃣ `interactive-ai.py`
 This script provides additional utility functions for tasks beyond text interaction.
 
 **✨ Main features:**
