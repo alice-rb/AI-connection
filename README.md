@@ -23,10 +23,5 @@ You can use it for translation, image creation, audio transcription, and other A
 - Transcribe audio files
 - Extendable to other AI functionalities
 
-## Usage
 
-1. Ensure you have Python 3.x installed.  
-2. Install required dependencies (e.g., `requests`, `openai`, or any library your scripts need).  
-3. Run `llm_connection.py` to start an interactive session with the AI.  
-4. Use `ai_utilities.py` for specialized tasks like translation, image generation, or audio transcription.
 
