@@ -24,3 +24,8 @@ This script provides additional utility functions for tasks beyond text interact
 - 🖼️ Generate images from prompts  
 - 🎙️ Transcribe audio files  
 - 🔧 Extendable to other AI-powered functionalities
+
+## 📝 Notes 
+- These scripts are designed as learning exercises and practical examples of AI integration with Python.
+- Make sure you have the proper API credentials or access tokens for the selected AI.
+- The repository is flexible and extendable for future AI utilities you may want to add.
