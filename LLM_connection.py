@@ -37,3 +37,4 @@ print(consultarModelo(prompt_correcto))
 
 print("\nPROMPT ERRÓNEO:")
 print(consultarModelo(prompt_erroneo))
+
